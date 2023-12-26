@@ -45,18 +45,15 @@
 ###   3. Finally, calculate ωcd from the relation v = rω 
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
-
-
 ## Output:
+![Screenshot 2023-12-26 040022](https://github.com/MounishT/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138955798/a05f6249-80cb-4295-a922-1981253a35fa)
 
+![Screenshot 2023-12-26 035541](https://github.com/MounishT/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138955798/060a0b1e-0d09-473f-8330-d5907c658910)
 
-### Name:
-### Register Number: 
+![Screenshot 2023-12-26 035457](https://github.com/MounishT/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138955798/5c6ebb83-d787-48ba-9561-8796e1235009)
+
+### Name:T MOUNISH
+### Register Number:23002806 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
